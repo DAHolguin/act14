@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:rivera0538/pantalla2_0538.dart';
-import 'package:rivera0538/pantalla1_0538.dart';
-import 'package:rivera0538/pantallaini_0538.dart';
+import 'package:garcia0481/pantalla2_0538.dart';
+import 'package:garcia0481/pantalla1_0538.dart';
+import 'package:garcia0481/pantallaini_0538.dart';
 
 void main() => runApp(MiApp0538());
 
